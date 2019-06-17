@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/currency-fraction-test/static/css/main.022d27e3.chunk.css",
-    "main.js": "/currency-fraction-test/static/js/main.77d9f18f.chunk.js",
-    "main.js.map": "/currency-fraction-test/static/js/main.77d9f18f.chunk.js.map",
-    "runtime~main.js": "/currency-fraction-test/static/js/runtime~main.66cd8a62.js",
-    "runtime~main.js.map": "/currency-fraction-test/static/js/runtime~main.66cd8a62.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/currency-fraction-test/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/currency-fraction-test/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/currency-fraction-test/index.html",
-    "precache-manifest.dc6a5cf180542c049d13970eea874080.js": "/currency-fraction-test/precache-manifest.dc6a5cf180542c049d13970eea874080.js",
-    "service-worker.js": "/currency-fraction-test/service-worker.js",
-    "static/css/main.022d27e3.chunk.css.map": "/currency-fraction-test/static/css/main.022d27e3.chunk.css.map",
-    "static/media/logo.svg": "/currency-fraction-test/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/currency-fraction/static/css/main.022d27e3.chunk.css",
+    "main.js": "/currency-fraction/static/js/main.355814ee.chunk.js",
+    "main.js.map": "/currency-fraction/static/js/main.355814ee.chunk.js.map",
+    "runtime~main.js": "/currency-fraction/static/js/runtime~main.e7a9bfaa.js",
+    "runtime~main.js.map": "/currency-fraction/static/js/runtime~main.e7a9bfaa.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/currency-fraction/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/currency-fraction/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/currency-fraction/index.html",
+    "precache-manifest.3c3915c5a370e5551074bd3767c7ada0.js": "/currency-fraction/precache-manifest.3c3915c5a370e5551074bd3767c7ada0.js",
+    "service-worker.js": "/currency-fraction/service-worker.js",
+    "static/css/main.022d27e3.chunk.css.map": "/currency-fraction/static/css/main.022d27e3.chunk.css.map",
+    "static/media/logo.svg": "/currency-fraction/static/media/logo.ee7cd8ed.svg"
   }
 }
